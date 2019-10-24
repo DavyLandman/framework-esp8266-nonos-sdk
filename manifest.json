@@ -7,9 +7,7 @@
       "version": "2.1.0"
     },
     {
-      "url": "git+https://github.com/espressif/ESP8266_NONOS_SDK.git",
-      "tag": "v3.0.1",
-      "branch": "v3.0.1",
+      "url": "git+https://github.com/espressif/ESP8266_NONOS_SDK.git#v3.0.1",
       "version": "3.0.1"
     }
   ]
